@@ -19,7 +19,7 @@ const DocNav=()=>{
                                         options = {{
                                             headerTitle: ()=> <Header name="Doctors" />,
                                             headerStyle: {
-                                            height:120,
+                                            height:80,
                                             borderBottomLeftRadius:50,
                                             borderBottomRightRadius:50,
                                             backgroundColor:"#439639",
@@ -35,7 +35,7 @@ const DocNav=()=>{
                                         options = {{
                                             headerTitle: ()=> <Header name="Enter Details" />,
                                             headerStyle: {
-                                                height:120,
+                                                height:80,
                                                 borderBottomLeftRadius:50,
                                                 borderBottomRightRadius:50,
                                                 backgroundColor:"#439639",
@@ -51,7 +51,7 @@ const DocNav=()=>{
                                     options = {{
                                         headerTitle: ()=> <Header name="Doctor Profile" />,
                                         headerStyle: {
-                                        height:120,
+                                        height:80,
                                         borderBottomLeftRadius:50,
                                         borderBottomRightRadius:50,
                                         backgroundColor:"#439639",
@@ -67,7 +67,7 @@ const DocNav=()=>{
                                     options = {{
                                         headerTitle: ()=> <Header name="Edit Doctor Profile" />,
                                         headerStyle: {
-                                        height:120,
+                                        height:80,
                                         borderBottomLeftRadius:50,
                                         borderBottomRightRadius:50,
                                         backgroundColor:"#439639",

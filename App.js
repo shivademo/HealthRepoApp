@@ -44,7 +44,7 @@ function App(){
             options = {{
               headerTitle: ()=> <Header name="Health Repo" />,
               headerStyle: {
-                height:120,
+                height:80,
                 borderBottomLeftRadius:50,
                 borderBottomRightRadius:50,
                 backgroundColor:"#439639",
@@ -61,7 +61,7 @@ function App(){
             options = {{
               headerTitle: ()=> <Header name="Health Repo" />,
               headerStyle: {
-                height:120,
+                height:80,
                 borderBottomLeftRadius:50,
                 borderBottomRightRadius:50,
                 backgroundColor:"#439639",
@@ -79,7 +79,7 @@ function App(){
             options = {{
               headerTitle: ()=> <Header name="Reset Password" />,
               headerStyle: {
-                height:120,
+                height:80,
                 borderBottomLeftRadius:50,
                 borderBottomRightRadius:50,
                 backgroundColor:"#439639",

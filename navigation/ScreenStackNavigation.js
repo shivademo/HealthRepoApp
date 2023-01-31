@@ -26,7 +26,7 @@ const ScreenStackNavigation=()=>{
                 options = {{
                     headerTitle: ()=> <Header name="Health Repo" />,
                     headerStyle: {
-                      height:120,
+                      height:80,
                       borderBottomLeftRadius:50,
                       borderBottomRightRadius:50,
                       backgroundColor:"#439639",
@@ -49,7 +49,7 @@ const ScreenStackNavigation=()=>{
                 options = {{
                     headerTitle: ()=> <Header name="Medication" />,
                     headerStyle: {
-                      height:120,
+                      height:80,
                       borderBottomLeftRadius:50,
                       borderBottomRightRadius:50,
                       backgroundColor:"#439639",
@@ -65,7 +65,7 @@ const ScreenStackNavigation=()=>{
                 options = {{
                     headerTitle: ()=> <Header name="Prescriptions" />,
                     headerStyle: {
-                      height:120,
+                      height:80,
                       borderBottomLeftRadius:50,
                       borderBottomRightRadius:50,
                       backgroundColor:"#439639",
@@ -81,7 +81,7 @@ const ScreenStackNavigation=()=>{
                 options = {{
                     headerTitle: ()=> <Header name="Allergies" />,
                     headerStyle: {
-                      height:120,
+                      height:80,
                       borderBottomLeftRadius:50,
                       borderBottomRightRadius:50,
                       backgroundColor:"#439639",
@@ -97,7 +97,7 @@ const ScreenStackNavigation=()=>{
                 options = {{
                     headerTitle: ()=> <Header name="Immunization" />,
                     headerStyle: {
-                      height:120,
+                      height:80,
                       borderBottomLeftRadius:50,
                       borderBottomRightRadius:50,
                       backgroundColor:"#439639",
@@ -113,7 +113,7 @@ const ScreenStackNavigation=()=>{
                 options = {{
                     headerTitle: ()=> <Header name="Insurance" />,
                     headerStyle: {
-                      height:120,
+                      height:80,
                       borderBottomLeftRadius:50,
                       borderBottomRightRadius:50,
                       backgroundColor:"#439639",

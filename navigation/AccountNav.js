@@ -17,7 +17,7 @@ const AccountNav=()=>{
                                         options = {{
                                             headerTitle: ()=> <Header name="Health Repo" />,
                                             headerStyle: {
-                                            height:120,
+                                            height:80,
                                             borderBottomLeftRadius:50,
                                             borderBottomRightRadius:50,
                                             backgroundColor:"#439639",
@@ -33,7 +33,7 @@ const AccountNav=()=>{
                                     options = {{
                                         headerTitle: ()=> <Header name="Edit Your Profile" />,
                                         headerStyle: {
-                                        height:120,
+                                        height:80,
                                         borderBottomLeftRadius:50,
                                         borderBottomRightRadius:50,
                                         backgroundColor:"#439639",
@@ -49,7 +49,7 @@ const AccountNav=()=>{
                                     options = {{
                                         headerTitle: ()=> <Header name="Help" />,
                                         headerStyle: {
-                                        height:120,
+                                        height:80,
                                         borderBottomLeftRadius:50,
                                         borderBottomRightRadius:50,
                                         backgroundColor:"#439639",

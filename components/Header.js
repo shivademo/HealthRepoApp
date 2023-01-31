@@ -1,11 +1,12 @@
 import React, { Component } from "react";
-import { StyleSheet, Text, View, Image } from 'react-native';
+import { StyleSheet, Text, View, Image, StatusBar } from 'react-native';
 
 
 const Header=(props)=>{
 
     return (
         <View style={{ flexDirection:"row", flexWrap:"wrap"}}>
+          <StatusBar backgroundColor="#439639" barStyle="light-content"></StatusBar>
           <Image source={require("../assets/logo2.png")} 
             style={{
               width:40, 

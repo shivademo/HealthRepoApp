@@ -3,20 +3,20 @@ import {
    View, 
    Text,
    StyleSheet,
-   ImageBackground,
+ 
    Dimensions,
    StatusBar,
-   FlatList,
+   
    ActivityIndicator,
    Linking,
    Alert
 } from 'react-native';
 import {firebase} from '../config'
-import FontAwesome5 from 'react-native-vector-icons/FontAwesome5'; 
+
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons'; 
 import AntDesign from 'react-native-vector-icons/AntDesign'; 
-import { getColorByLetter } from '../medi_data/profileColor';
-import { get } from 'react-native/Libraries/Utilities/PixelRatio';
+
+
 
 export default function DoctorProfile({navigation, route}) {
 
